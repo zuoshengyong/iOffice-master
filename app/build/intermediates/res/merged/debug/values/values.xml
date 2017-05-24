@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="encoding_items">
+        <item>GBK</item>
+        <item>GB2312</item>
+        <item>BIG5</item>
+        <item>Unicode</item>
+        <item>UTF-8</item>
+        <item>UTF-16</item>
+        <item>UTF-16LE</item>
+        <item>UTF-16BE</item>
+        <item>UTF-7</item>
+        <item>UTF-32</item>
+        <item>UTF-32LE</item>
+        <item>UTF-32BE</item>
+        <item>US-ASCII</item>
+        <item>ISO-8859-1</item>
+        <item>ISO-8859-2</item>
+        <item>ISO-8859-3</item>
+        <item>ISO-8859-4</item>
+        <item>ISO-8859-5</item>
+        <item>ISO-8859-6</item>
+        <item>ISO-8859-7</item>
+        <item>ISO-8859-8</item>
+        <item>ISO-8859-9</item>
+        <item>ISO-8859-10</item>
+        <item>ISO-8859-11</item>
+        <item>ISO-8859-13</item>
+        <item>ISO-8859-14</item>
+        <item>ISO-8859-15</item>
+        <item>ISO-8859-16</item>
+        <item>ISO-2022-JP</item>
+        <item>ISO-2022-KR</item>
+        <item>ISO-2022-CN</item>
+        <item>ISO-2022-CN-EXT</item>
+        <item>UCS-2</item>
+        <item>UCS-4</item>
+        <item>Windows-1250</item>
+        <item>Windows-1251</item>
+        <item>Windows-1252</item>
+        <item>Windows-1253</item>
+        <item>Windows-1254</item>
+        <item>Windows-1255</item>
+        <item>Windows-1256</item>
+        <item>Windows-1257</item>
+        <item>Windows-1258</item>
+        <item>KOI8-R</item>
+        <item>Shift_JIS</item>
+        <item>CP864</item>
+        <item>EUC-JP</item>
+        <item>EUC-KR</item>
+        <item>BOCU-1</item>
+        <item>CESU-8</item>
+        <item>SCSU</item>
+        <item>HZ-GB-2312</item>
+        <item>TIS-620</item>
+        <item>macintosh</item>
+        <item>x-UTF-16LE-BOM</item>
+        <item>x-iscii-as</item>
+        <item>x-iscii-be</item>
+        <item>x-iscii-de</item>
+        <item>x-iscii-gu</item>
+        <item>x-iscii-ka</item>
+        <item>x-iscii-ma</item>
+        <item>x-iscii-or</item>
+        <item>x-iscii-pa</item>
+        <item>x-iscii-ta</item>
+        <item>x-iscii-te</item>
+        <item>x-mac-cyrillic</item>
+    </string-array>
+    <string-array name="file_sort_items">
+        <item>Type</item>
+        <item>Date</item>
+        <item>Size</item>
+        <item>Name</item>
+	</string-array>
+    <string-array name="setting_items">
+        <item>Maximum count of recently files(1~20)</item>
+	</string-array>
+    <color name="colorPrimary">#3F51B5</color>
+    <declare-styleable name="ScrollBar"><attr format="color|reference" name="sb_handlerColor"/><attr format="color|reference" name="sb_indicatorColor"/><attr format="color|reference" name="sb_indicatorTextColor"/><attr format="boolean|reference" name="sb_horizontal"/></declare-styleable>
+    <string name="app_name">Pdfium</string>
+    <string name="app_searchbar_backward">Find Backward</string>
+    <string name="app_searchbar_failed">iOffice Reader cannot find the data you are searching for</string>
+    <string name="app_searchbar_find">Find</string>
+    <string name="app_searchbar_forward">Find Forward</string>
+    <string name="app_searchbar_reachedBegin">iOffice Reader has reached the beginning of the document</string>
+    <string name="app_searchbar_reachedEnd">iOffice Reader has reached the end of the document</string>
+    <string name="app_toolsbar_approve">Approve</string>
+    <string name="app_toolsbar_back">Back</string>
+    <string name="app_toolsbar_color">Pen Settings</string>
+    <string name="app_toolsbar_draw">Draw Mode</string>
+    <string name="app_toolsbar_eraser">UnErase</string>
+    <string name="app_toolsbar_eraser_check">Erase</string>
+    <string name="app_toolsbar_find">Find</string>
+    <string name="app_toolsbar_generated_picture">Generated Picture</string>
+    <string name="app_toolsbar_hyperlink">Goto</string>
+    <string name="app_toolsbar_internet_search">Internet Search</string>
+    <string name="app_toolsbar_pen">UnDraw</string>
+    <string name="app_toolsbar_pen_check">Draw</string>
+    <string name="app_toolsbar_read">Read</string>
+    <string name="app_toolsbar_share">Share</string>
+    <string name="dialog_ascending">Ascending</string>
+    <string name="dialog_create_folder_error">Failed to create folder</string>
+    <string name="dialog_delete_file">Are you sure you want to delete the selected item(s)?</string>
+    <string name="dialog_descending">Descending</string>
+    <string name="dialog_encoding_title">Text Encoding</string>
+    <string name="dialog_error_title">Error</string>
+    <string name="dialog_file_name">File Name</string>
+    <string name="dialog_file_rename_error">Failed to rename file</string>
+    <string name="dialog_folder_name">Folder Name</string>
+    <string name="dialog_format_error">File format error</string>
+    <string name="dialog_insufficient_memory">Unable to complete operation due to insufficient memory</string>
+    <string name="dialog_move_file_error">You can not move or copy a folder into itself.</string>
+    <string name="dialog_name_error">%s already exists.</string>
+    <string name="dialog_old_document">The document is too old - Office 95 or older, which is not supported</string>
+    <string name="dialog_overwrite_file">Do you want to overwrite it?</string>
+    <string name="dialog_parse_error">File parsing error</string>
+    <string name="dialog_rtf_file">The document is really a RTF file, which is not supported</string>
+    <string name="dialog_system_crash_error">System crash, terminate running</string>
+    <string name="file_message_empty_directory">Empty Folder</string>
+    <string name="file_toolsbar_copy">Copy</string>
+    <string name="file_toolsbar_create_folder">Create folder</string>
+    <string name="file_toolsbar_cut">Cut</string>
+    <string name="file_toolsbar_delete">Delete</string>
+    <string name="file_toolsbar_mark_star">Mark</string>
+    <string name="file_toolsbar_paste">Paste</string>
+    <string name="file_toolsbar_print">Printer</string>
+    <string name="file_toolsbar_rename">Rename</string>
+    <string name="file_toolsbar_share">Share</string>
+    <string name="file_toolsbar_sort">Sort</string>
+    <string name="file_toolsbar_unmark_star">UnMark</string>
+    <string name="pg_slideshow">SlideShow</string>
+    <string name="pg_slideshow_pagedown">Page Down</string>
+    <string name="pg_slideshow_pageup">Page Up</string>
+    <string name="pg_toolsbar_note">Note</string>
+    <string name="ss_toolsbar_sheet_switch">Sheet Switch</string>
+    <string name="sys_button_cancel">Cancel</string>
+    <string name="sys_button_local_storage">Local Storage</string>
+    <string name="sys_button_mark_files">Marked Files</string>
+    <string name="sys_button_memory_card">MemoryCard</string>
+    <string name="sys_button_ok">OK</string>
+    <string name="sys_button_recently_files">Recently Files</string>
+    <string name="sys_button_search">Search</string>
+    <string name="sys_menu_about">About</string>
+    <string name="sys_menu_account">Account</string>
+    <string name="sys_menu_help">Help</string>
+    <string name="sys_menu_register">Register</string>
+    <string name="sys_menu_settings">Settings</string>
+    <string name="sys_menu_update">Update</string>
+    <string name="sys_name">注意</string>
+    <string name="sys_no_match">No matches.</string>
+    <string name="sys_progress_message_loading">Loading, please wait...</string>
+    <string name="sys_search_hint">Search for files</string>
+    <string name="sys_share_title">Sending mail...</string>
+    <string name="sys_url_internet_search">http://www.baidu.com</string>
+    <string name="sys_url_wxiwei">https://my.oschina.net/wxiwei</string>
+    <string name="wp_toolsbar_print_mode">Print Mode</string>
+    <string name="wp_toolsbar_select_text">Select Text</string>
+    <string name="wp_toolsbar_switch_view">Switch View</string>
+    <style name="title_background_drawable_horizontal">
+		<item name="android:background">@color/colorPrimary</item>
+	</style>
+    <style name="title_background_horizontal" parent="android:Theme">
+		<item name="android:windowTitleBackgroundStyle">@style/title_background_drawable_horizontal</item>
+	</style>
+</resources>

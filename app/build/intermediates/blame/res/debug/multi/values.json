@@ -1,0 +1,1039 @@
+[
+    {
+        "outputFile": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 69,
+                    "endColumn": 19,
+                    "endOffset": 2169
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2174,
+                    "endLine": 75,
+                    "endColumn": 16,
+                    "endOffset": 2332
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2337,
+                    "endLine": 78,
+                    "endColumn": 16,
+                    "endOffset": 2448
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2453,
+                    "endColumn": 46,
+                    "endOffset": 2495
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 2789,
+                    "endColumn": 43,
+                    "endOffset": 2828
+                },
+                "from": {
+                    "file": "/Users/susan/.android/build-cache/d2fe50157e79ee3b3165861ec1074b4ca27bc9ae/output/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 2833,
+                    "endColumn": 64,
+                    "endOffset": 2893
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 2898,
+                    "endColumn": 106,
+                    "endOffset": 3000
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3005,
+                    "endColumn": 51,
+                    "endOffset": 3052
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3057,
+                    "endColumn": 62,
+                    "endOffset": 3115
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3120,
+                    "endColumn": 111,
+                    "endOffset": 3227
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3232,
+                    "endColumn": 103,
+                    "endOffset": 3331
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3336,
+                    "endColumn": 56,
+                    "endOffset": 3388
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3393,
+                    "endColumn": 50,
+                    "endOffset": 3439
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3444,
+                    "endColumn": 59,
+                    "endOffset": 3499
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3504,
+                    "endColumn": 55,
+                    "endOffset": 3555
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3560,
+                    "endColumn": 55,
+                    "endOffset": 3611
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3616,
+                    "endColumn": 59,
+                    "endOffset": 3671
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 3676,
+                    "endColumn": 50,
+                    "endOffset": 3722
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3727,
+                    "endColumn": 76,
+                    "endOffset": 3799
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3804,
+                    "endColumn": 55,
+                    "endOffset": 3855
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3860,
+                    "endColumn": 72,
+                    "endOffset": 3928
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 3933,
+                    "endColumn": 51,
+                    "endOffset": 3980
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 3985,
+                    "endColumn": 55,
+                    "endOffset": 4036
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4041,
+                    "endColumn": 50,
+                    "endOffset": 4087
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4092,
+                    "endColumn": 52,
+                    "endOffset": 4140
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4145,
+                    "endColumn": 54,
+                    "endOffset": 4195
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4200,
+                    "endColumn": 78,
+                    "endOffset": 4274
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4279,
+                    "endColumn": 100,
+                    "endOffset": 4375
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4380,
+                    "endColumn": 56,
+                    "endOffset": 4432
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4437,
+                    "endColumn": 63,
+                    "endOffset": 4496
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4501,
+                    "endColumn": 52,
+                    "endOffset": 4549
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4554,
+                    "endColumn": 54,
+                    "endOffset": 4604
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4609,
+                    "endColumn": 74,
+                    "endOffset": 4679
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4684,
+                    "endColumn": 58,
+                    "endOffset": 4738
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4743,
+                    "endColumn": 65,
+                    "endOffset": 4804
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4809,
+                    "endColumn": 110,
+                    "endOffset": 4915
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4920,
+                    "endColumn": 97,
+                    "endOffset": 5013
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 5018,
+                    "endColumn": 64,
+                    "endOffset": 5078
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 5083,
+                    "endColumn": 116,
+                    "endOffset": 5195
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 5200,
+                    "endColumn": 78,
+                    "endOffset": 5274
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 5279,
+                    "endColumn": 65,
+                    "endOffset": 5340
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5345,
+                    "endColumn": 101,
+                    "endOffset": 5442
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5447,
+                    "endColumn": 85,
+                    "endOffset": 5528
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5533,
+                    "endColumn": 69,
+                    "endOffset": 5598
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5603,
+                    "endColumn": 51,
+                    "endOffset": 5650
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5655,
+                    "endColumn": 69,
+                    "endOffset": 5720
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5725,
+                    "endColumn": 49,
+                    "endOffset": 5770
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5775,
+                    "endColumn": 55,
+                    "endOffset": 5826
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5831,
+                    "endColumn": 56,
+                    "endOffset": 5883
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5888,
+                    "endColumn": 53,
+                    "endOffset": 5937
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5942,
+                    "endColumn": 55,
+                    "endOffset": 5993
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5998,
+                    "endColumn": 55,
+                    "endOffset": 6049
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 6054,
+                    "endColumn": 53,
+                    "endOffset": 6103
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 6108,
+                    "endColumn": 51,
+                    "endOffset": 6155
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 6160,
+                    "endColumn": 60,
+                    "endOffset": 6216
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 6221,
+                    "endColumn": 50,
+                    "endOffset": 6267
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 6272,
+                    "endColumn": 59,
+                    "endOffset": 6327
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 6332,
+                    "endColumn": 55,
+                    "endOffset": 6383
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 6388,
+                    "endColumn": 49,
+                    "endOffset": 6433
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6438,
+                    "endColumn": 65,
+                    "endOffset": 6499
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6504,
+                    "endColumn": 52,
+                    "endOffset": 6552
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6557,
+                    "endColumn": 66,
+                    "endOffset": 6619
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6624,
+                    "endColumn": 62,
+                    "endOffset": 6682
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6687,
+                    "endColumn": 61,
+                    "endOffset": 6744
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6749,
+                    "endColumn": 44,
+                    "endOffset": 6789
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6794,
+                    "endColumn": 68,
+                    "endOffset": 6858
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6863,
+                    "endColumn": 52,
+                    "endOffset": 6911
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6916,
+                    "endColumn": 48,
+                    "endOffset": 6960
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6965,
+                    "endColumn": 52,
+                    "endOffset": 7013
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 7018,
+                    "endColumn": 46,
+                    "endOffset": 7060
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 7065,
+                    "endColumn": 54,
+                    "endOffset": 7115
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 7120,
+                    "endColumn": 54,
+                    "endOffset": 7170
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 7175,
+                    "endColumn": 50,
+                    "endOffset": 7221
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 7226,
+                    "endColumn": 39,
+                    "endOffset": 7261
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 39,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 7266,
+                    "endColumn": 52,
+                    "endOffset": 7314
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 7319,
+                    "endColumn": 80,
+                    "endOffset": 7395
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 7400,
+                    "endColumn": 60,
+                    "endOffset": 7456
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 7461,
+                    "endColumn": 59,
+                    "endOffset": 7516
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 7521,
+                    "endColumn": 72,
+                    "endOffset": 7589
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 7594,
+                    "endColumn": 72,
+                    "endOffset": 7662
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 7667,
+                    "endColumn": 61,
+                    "endOffset": 7724
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 7729,
+                    "endColumn": 63,
+                    "endOffset": 7788
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 7793,
+                    "endColumn": 63,
+                    "endOffset": 7852
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 7857,
+                    "endLine": 162,
+                    "endColumn": 9,
+                    "endOffset": 7979
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 7984,
+                    "endLine": 165,
+                    "endColumn": 9,
+                    "endOffset": 8160
+                },
+                "from": {
+                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

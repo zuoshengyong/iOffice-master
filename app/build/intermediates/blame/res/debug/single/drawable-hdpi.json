@@ -1,0 +1,466 @@
+[
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_register.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_register.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_zoom_in.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_zoom_in.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_logo_48x48.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_logo_48x48.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_toolsbar_button_bg_push.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_toolsbar_button_bg_push.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_back_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_back_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_print_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_print_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_right_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_right_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_help.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_help.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_internet_search_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_internet_search_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_read.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_read.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_folder.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_folder.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_cut_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_cut_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_mark_star_vertical.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_mark_star_vertical.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/wp_select_text_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/wp_select_text_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_right.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_right.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_left_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_left_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_slideshow_pen_normal.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_slideshow_pen_normal.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_createfolder.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_createfolder.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_about.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_about.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_xls.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_xls.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_print_n.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_print_n.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_slideshow_right_push.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_slideshow_right_push.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_left.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_left.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_print.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_print.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/wp_switch_view_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/wp_switch_view_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_sort_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_sort_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_pen.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_pen.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_pen_check.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_pen_check.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_button_normal_bg_horizontal.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_button_normal_bg_horizontal.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_toolsbar_separated_horizontal.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_toolsbar_separated_horizontal.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_paste.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_paste.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_star_check.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_star_check.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_internet_hyperlink.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_internet_hyperlink.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_button_focus_bg_vertical.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_button_focus_bg_vertical.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ppt_node.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/ppt_node.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_star_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_star_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_find.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_find.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_zoom_in_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_zoom_in_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_search_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_search_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_drawing_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_drawing_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ppt_node_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/ppt_node_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_search.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_search.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_toolsbar_button_bg_normal.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_toolsbar_button_bg_normal.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/wp_switch_view.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/wp_switch_view.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_background_horizontal.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_background_horizontal.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_xlsx.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_xlsx.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_share_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_share_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_drawing.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_drawing.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_button_normal_bg_vertical.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_button_normal_bg_vertical.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_search_bg_push.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_search_bg_push.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_star.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_star.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_slideshow_eraser_normal.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_slideshow_eraser_normal.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_pdf.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_pdf.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_delete.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_delete.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_slideshow_eraser_check.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_slideshow_eraser_check.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_internet_hyperlink_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_internet_hyperlink_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_logo_36x36.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_logo_36x36.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_sacard_horizontal.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_sacard_horizontal.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_pptx.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_pptx.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_slideshow_settings_push.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_slideshow_settings_push.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_setting.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_setting.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_account.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_account.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_rename.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_rename.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_slideshow_pen_check.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_slideshow_pen_check.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_sacard_vertical.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_sacard_vertical.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_read_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_read_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_button_focus_bg_horizontal.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_button_focus_bg_horizontal.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_slideshow.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_slideshow.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_left_push.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_left_push.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_color.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_color.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_createfolder_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_createfolder_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_internet_search.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_internet_search.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_search.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_search.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_button_push_bg_vertical.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_button_push_bg_vertical.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_recent_horizontal.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_recent_horizontal.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_eraser.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_eraser.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_eraser_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_eraser_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_copy_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_copy_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_color_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_color_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_help.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_help.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_mark_star_horizontal.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_mark_star_horizontal.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_cut.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_cut.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_ppt.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_ppt.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_recent_vertical.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_recent_vertical.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_zoom_out.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_zoom_out.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_doc.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_doc.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_rename_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_rename_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_slideshow_left.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_slideshow_left.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_approve.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_approve.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/wp_select_text.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/wp_select_text.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_zoom_out_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_zoom_out_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_star_uncheck.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_star_uncheck.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_share.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_share.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_back.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_back.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_approve_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_approve_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_slideshow_settings_normal.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_slideshow_settings_normal.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_slideshow_pen_push.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_slideshow_pen_push.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_delete_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_delete_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_logo_72x72.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_logo_72x72.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_slideshow_right.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_slideshow_right.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_txt.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_txt.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_help_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_help_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_update.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_update.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_slideshow_eraser_push.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_slideshow_eraser_push.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_docx.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_docx.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_find_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_find_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_slideshow_left_push.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_slideshow_left_push.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_eraser_check.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_eraser_check.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/app_print_d.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/app_print_d.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_copy.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_copy.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_paste_disable.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_paste_disable.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_right_push.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_right_push.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_button_push_bg_horizontal.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_button_push_bg_horizontal.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_sort.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_sort.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/sys_background.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/sys_background.png"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable-hdpi/file_icon_star.png",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable-hdpi/file_icon_star.png"
+    }
+]

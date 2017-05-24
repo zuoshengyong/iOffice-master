@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/layout/file_item_view.xml",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/layout/file_item_view.xml"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/layout/setting_dialog_item.xml",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/layout/setting_dialog_item.xml"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/layout/pen_setting_dialog.xml",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/layout/pen_setting_dialog.xml"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice.xml",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/layout/select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/layout/activity_pdfview.xml",
+        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/layout/activity_pdfview.xml"
+    }
+]

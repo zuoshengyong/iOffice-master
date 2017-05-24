@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "25.0.3"
+
+    defaultConfig {
+        applicationId "com.wxiwei.office.officereader"
+        minSdkVersion 11
+        targetSdkVersion 8
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles 'proguard.cfg'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.github.barteksc:android-pdf-viewer:2.5.1'
+}

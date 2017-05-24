@@ -1,0 +1,7 @@
+#Wed May 24 22:52:40 CST 2017
+base.0=/Users/susan/Desktop/iOffice-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_220042d5f49fae2e18319c6c9998307bb809dc49
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/susan/Desktop/iOffice-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c0f23074e45271669fcc80f493c9b3b8016b6553/classes.dex
+base.1=/Users/susan/Desktop/iOffice-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c0f23074e45271669fcc80f493c9b3b8016b6553
+file.0=/Users/susan/Desktop/iOffice-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_220042d5f49fae2e18319c6c9998307bb809dc49/classes.dex

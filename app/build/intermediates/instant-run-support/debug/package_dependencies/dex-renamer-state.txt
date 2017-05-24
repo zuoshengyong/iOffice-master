@@ -1,0 +1,16 @@
+#Wed May 24 20:59:13 CST 2017
+renamed.4=classes.dex
+renamed.3=classes2.dex
+renamed.2=classes4.dex
+renamed.1=classes5.dex
+base.4=/Users/susan/Desktop/iOffice-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_359d182448a645d75277728ecf28650336c29135
+renamed.0=classes3.dex
+base.3=/Users/susan/Desktop/iOffice-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3650f097f2b47069fe0ddaf1277176da60708a6f
+base.2=/Users/susan/Desktop/iOffice-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_7becf9c436dfb4cddb9a10108c108910e6bbbd31
+base.1=/Users/susan/Desktop/iOffice-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_eb98b111a38c19f14a525a5884eaf9fd9ee7e5b3
+base.0=/Users/susan/Desktop/iOffice-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76858412f2a13d5b480e7b040a1a625d65091a04
+file.4=/Users/susan/Desktop/iOffice-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_359d182448a645d75277728ecf28650336c29135/classes.dex
+file.3=/Users/susan/Desktop/iOffice-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3650f097f2b47069fe0ddaf1277176da60708a6f/classes.dex
+file.2=/Users/susan/Desktop/iOffice-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_7becf9c436dfb4cddb9a10108c108910e6bbbd31/classes.dex
+file.1=/Users/susan/Desktop/iOffice-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_eb98b111a38c19f14a525a5884eaf9fd9ee7e5b3/classes.dex
+file.0=/Users/susan/Desktop/iOffice-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76858412f2a13d5b480e7b040a1a625d65091a04/classes.dex

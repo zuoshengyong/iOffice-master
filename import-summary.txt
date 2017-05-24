@@ -1,0 +1,52 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* LICENSE
+* default.properties
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* libs/armeabi/libwxiweiPDF.so => app/src/main/jniLibs/armeabi/libwxiweiPDF.so
+* proguard.cfg => app/proguard.cfg
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/com/wxiwei/office/fc/hssf/formula/function/functionMetadata.txt => app/src/main/resources/com/wxiwei/office/fc/hssf/formula/function/functionMetadata.txt
+* src/com/wxiwei/office/res/icon/ss_sheetbar_bg.png => app/src/main/resources/com/wxiwei/office/res/icon/ss_sheetbar_bg.png
+* src/com/wxiwei/office/res/icon/ss_sheetbar_button_focus_left.png => app/src/main/resources/com/wxiwei/office/res/icon/ss_sheetbar_button_focus_left.png
+* src/com/wxiwei/office/res/icon/ss_sheetbar_button_focus_middle.png => app/src/main/resources/com/wxiwei/office/res/icon/ss_sheetbar_button_focus_middle.png
+* src/com/wxiwei/office/res/icon/ss_sheetbar_button_focus_right.png => app/src/main/resources/com/wxiwei/office/res/icon/ss_sheetbar_button_focus_right.png
+* src/com/wxiwei/office/res/icon/ss_sheetbar_button_normal_left.png => app/src/main/resources/com/wxiwei/office/res/icon/ss_sheetbar_button_normal_left.png
+* src/com/wxiwei/office/res/icon/ss_sheetbar_button_normal_middle.png => app/src/main/resources/com/wxiwei/office/res/icon/ss_sheetbar_button_normal_middle.png
+* src/com/wxiwei/office/res/icon/ss_sheetbar_button_normal_right.png => app/src/main/resources/com/wxiwei/office/res/icon/ss_sheetbar_button_normal_right.png
+* src/com/wxiwei/office/res/icon/ss_sheetbar_button_push_left.png => app/src/main/resources/com/wxiwei/office/res/icon/ss_sheetbar_button_push_left.png
+* src/com/wxiwei/office/res/icon/ss_sheetbar_button_push_middle.png => app/src/main/resources/com/wxiwei/office/res/icon/ss_sheetbar_button_push_middle.png
+* src/com/wxiwei/office/res/icon/ss_sheetbar_button_push_right.png => app/src/main/resources/com/wxiwei/office/res/icon/ss_sheetbar_button_push_right.png
+* src/com/wxiwei/office/res/icon/ss_sheetbar_separated_horizontal.png => app/src/main/resources/com/wxiwei/office/res/icon/ss_sheetbar_separated_horizontal.png
+* src/com/wxiwei/office/res/icon/ss_sheetbar_shadow_left.png => app/src/main/resources/com/wxiwei/office/res/icon/ss_sheetbar_shadow_left.png
+* src/com/wxiwei/office/res/icon/ss_sheetbar_shadow_right.png => app/src/main/resources/com/wxiwei/office/res/icon/ss_sheetbar_shadow_right.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
