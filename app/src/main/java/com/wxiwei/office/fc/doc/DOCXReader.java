@@ -27,7 +27,6 @@ import com.wxiwei.office.common.bg.LinearGradientShader;
 import com.wxiwei.office.common.bg.PatternShader;
 import com.wxiwei.office.common.bg.RadialGradientShader;
 import com.wxiwei.office.common.bg.TileShader;
-import com.wxiwei.office.common.bookmark.Bookmark;
 import com.wxiwei.office.common.borders.Border;
 import com.wxiwei.office.common.borders.Borders;
 import com.wxiwei.office.common.borders.Line;
@@ -1598,15 +1597,7 @@ public class DOCXReader extends AbstractReader
                 hasLeaf = leaf != null;
                 continue;
             }
-            else if ("bookmarkStart".equals(name))
-            {
-                String val = run.attributeValue("name");
-                if (val != null)
-                {
-                    control.getSysKit().getBookmarkManage().addBookmark(new Bookmark(val, offset, offset));
-                }
-                continue;
-            }
+
             else if ("fldSimple".equals(name))
             {
             	String instr = run.attributeValue("instr");
@@ -2581,7 +2572,7 @@ public class DOCXReader extends AbstractReader
     
     /**
      * 
-     * @param pict
+     * @param
      * @param paraElem
      */
     private void processAutoShapeForPict(Element sp, ParagraphElement paraElem, WPGroupShape parent, float zoomX, float zoomY)

@@ -9,9 +9,9 @@ package com.wxiwei.office.officereader;
 
 public final class R {
     public static final class array {
-        public static final int encoding_items=0x7f050000;
-        public static final int file_sort_items=0x7f050001;
-        public static final int setting_items=0x7f050002;
+        public static final int encoding_items=0x7f040000;
+        public static final int file_sort_items=0x7f040001;
+        public static final int setting_items=0x7f040002;
     }
     public static final class attr {
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
@@ -39,7 +39,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int sb_indicatorTextColor=0x7f010002;
     }
     public static final class color {
-        public static final int colorPrimary=0x7f060000;
+        public static final int colorPrimary=0x7f050000;
     }
     public static final class drawable {
         public static final int app_approve=0x7f020000;
@@ -166,21 +166,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int wp_switch_view_disable=0x7f020079;
     }
     public static final class id {
-        public static final int alphaBar=0x7f0a0006;
-        public static final int alphaView=0x7f0a0005;
-        public static final int cancel=0x7f0a0008;
-        public static final int colorPickerView=0x7f0a0002;
-        public static final int ok=0x7f0a0007;
-        public static final int pdfView=0x7f0a0000;
-        public static final int strokeBar=0x7f0a0004;
-        public static final int strokeText=0x7f0a0003;
-        public static final int sys_menu_about=0x7f0a000e;
-        public static final int sys_menu_account=0x7f0a000a;
-        public static final int sys_menu_help=0x7f0a000d;
-        public static final int sys_menu_register=0x7f0a000b;
-        public static final int sys_menu_settings=0x7f0a0009;
-        public static final int sys_menu_update=0x7f0a000c;
-        public static final int tv_pageNum=0x7f0a0001;
+        public static final int alphaBar=0x7f090006;
+        public static final int alphaView=0x7f090005;
+        public static final int cancel=0x7f090008;
+        public static final int colorPickerView=0x7f090002;
+        public static final int ok=0x7f090007;
+        public static final int pdfView=0x7f090000;
+        public static final int strokeBar=0x7f090004;
+        public static final int strokeText=0x7f090003;
+        public static final int sys_menu_about=0x7f09000e;
+        public static final int sys_menu_account=0x7f09000a;
+        public static final int sys_menu_help=0x7f09000d;
+        public static final int sys_menu_register=0x7f09000b;
+        public static final int sys_menu_settings=0x7f090009;
+        public static final int sys_menu_update=0x7f09000c;
+        public static final int tv_pageNum=0x7f090001;
     }
     public static final class layout {
         public static final int activity_pdfview=0x7f030000;
@@ -190,95 +190,92 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int setting_dialog_item=0x7f030004;
     }
     public static final class menu {
-        public static final int sys_menu=0x7f090000;
+        public static final int sys_menu=0x7f080000;
     }
     public static final class string {
-        public static final int app_name=0x7f070000;
-        public static final int app_searchbar_backward=0x7f070001;
-        public static final int app_searchbar_failed=0x7f070002;
-        public static final int app_searchbar_find=0x7f070003;
-        public static final int app_searchbar_forward=0x7f070004;
-        public static final int app_searchbar_reachedBegin=0x7f070005;
-        public static final int app_searchbar_reachedEnd=0x7f070006;
-        public static final int app_toolsbar_approve=0x7f070007;
-        public static final int app_toolsbar_back=0x7f070008;
-        public static final int app_toolsbar_color=0x7f070009;
-        public static final int app_toolsbar_draw=0x7f07000a;
-        public static final int app_toolsbar_eraser=0x7f07000b;
-        public static final int app_toolsbar_eraser_check=0x7f07000c;
-        public static final int app_toolsbar_find=0x7f07000d;
-        public static final int app_toolsbar_generated_picture=0x7f07000e;
-        public static final int app_toolsbar_hyperlink=0x7f07000f;
-        public static final int app_toolsbar_internet_search=0x7f070010;
-        public static final int app_toolsbar_pen=0x7f070011;
-        public static final int app_toolsbar_pen_check=0x7f070012;
-        public static final int app_toolsbar_read=0x7f070013;
-        public static final int app_toolsbar_share=0x7f070014;
-        public static final int dialog_ascending=0x7f070015;
-        public static final int dialog_create_folder_error=0x7f070016;
-        public static final int dialog_delete_file=0x7f070017;
-        public static final int dialog_descending=0x7f070018;
-        public static final int dialog_encoding_title=0x7f070019;
-        public static final int dialog_error_title=0x7f07001a;
-        public static final int dialog_file_name=0x7f07001b;
-        public static final int dialog_file_rename_error=0x7f07001c;
-        public static final int dialog_folder_name=0x7f07001d;
-        public static final int dialog_format_error=0x7f07001e;
-        public static final int dialog_insufficient_memory=0x7f07001f;
-        public static final int dialog_move_file_error=0x7f070020;
-        public static final int dialog_name_error=0x7f070021;
-        public static final int dialog_old_document=0x7f070022;
-        public static final int dialog_overwrite_file=0x7f070023;
-        public static final int dialog_parse_error=0x7f070024;
-        public static final int dialog_rtf_file=0x7f070025;
-        public static final int dialog_system_crash_error=0x7f070026;
-        public static final int file_message_empty_directory=0x7f070027;
-        public static final int file_toolsbar_copy=0x7f070028;
-        public static final int file_toolsbar_create_folder=0x7f070029;
-        public static final int file_toolsbar_cut=0x7f07002a;
-        public static final int file_toolsbar_delete=0x7f07002b;
-        public static final int file_toolsbar_mark_star=0x7f07002c;
-        public static final int file_toolsbar_paste=0x7f07002d;
-        public static final int file_toolsbar_print=0x7f07002e;
-        public static final int file_toolsbar_rename=0x7f07002f;
-        public static final int file_toolsbar_share=0x7f070030;
-        public static final int file_toolsbar_sort=0x7f070031;
-        public static final int file_toolsbar_unmark_star=0x7f070032;
-        public static final int pg_slideshow=0x7f070033;
-        public static final int pg_slideshow_pagedown=0x7f070034;
-        public static final int pg_slideshow_pageup=0x7f070035;
-        public static final int pg_toolsbar_note=0x7f070036;
-        public static final int ss_toolsbar_sheet_switch=0x7f070037;
-        public static final int sys_button_cancel=0x7f070038;
-        public static final int sys_button_local_storage=0x7f070039;
-        public static final int sys_button_mark_files=0x7f07003a;
-        public static final int sys_button_memory_card=0x7f07003b;
-        public static final int sys_button_ok=0x7f07003c;
-        public static final int sys_button_recently_files=0x7f07003d;
-        public static final int sys_button_search=0x7f07003e;
-        public static final int sys_menu_about=0x7f07003f;
-        public static final int sys_menu_account=0x7f070040;
-        public static final int sys_menu_help=0x7f070041;
-        public static final int sys_menu_register=0x7f070042;
-        public static final int sys_menu_settings=0x7f070043;
-        public static final int sys_menu_update=0x7f070044;
-        public static final int sys_name=0x7f070045;
-        public static final int sys_no_match=0x7f070046;
-        public static final int sys_progress_message_loading=0x7f070047;
-        public static final int sys_search_hint=0x7f070048;
-        public static final int sys_share_title=0x7f070049;
-        public static final int sys_url_internet_search=0x7f07004a;
-        public static final int sys_url_wxiwei=0x7f07004b;
-        public static final int wp_toolsbar_print_mode=0x7f07004c;
-        public static final int wp_toolsbar_select_text=0x7f07004d;
-        public static final int wp_toolsbar_switch_view=0x7f07004e;
+        public static final int app_name=0x7f060000;
+        public static final int app_searchbar_backward=0x7f060001;
+        public static final int app_searchbar_failed=0x7f060002;
+        public static final int app_searchbar_find=0x7f060003;
+        public static final int app_searchbar_forward=0x7f060004;
+        public static final int app_searchbar_reachedBegin=0x7f060005;
+        public static final int app_searchbar_reachedEnd=0x7f060006;
+        public static final int app_toolsbar_approve=0x7f060007;
+        public static final int app_toolsbar_back=0x7f060008;
+        public static final int app_toolsbar_color=0x7f060009;
+        public static final int app_toolsbar_draw=0x7f06000a;
+        public static final int app_toolsbar_eraser=0x7f06000b;
+        public static final int app_toolsbar_eraser_check=0x7f06000c;
+        public static final int app_toolsbar_find=0x7f06000d;
+        public static final int app_toolsbar_generated_picture=0x7f06000e;
+        public static final int app_toolsbar_hyperlink=0x7f06000f;
+        public static final int app_toolsbar_internet_search=0x7f060010;
+        public static final int app_toolsbar_pen=0x7f060011;
+        public static final int app_toolsbar_pen_check=0x7f060012;
+        public static final int app_toolsbar_read=0x7f060013;
+        public static final int app_toolsbar_share=0x7f060014;
+        public static final int dialog_ascending=0x7f060015;
+        public static final int dialog_create_folder_error=0x7f060016;
+        public static final int dialog_delete_file=0x7f060017;
+        public static final int dialog_descending=0x7f060018;
+        public static final int dialog_encoding_title=0x7f060019;
+        public static final int dialog_error_title=0x7f06001a;
+        public static final int dialog_file_name=0x7f06001b;
+        public static final int dialog_file_rename_error=0x7f06001c;
+        public static final int dialog_folder_name=0x7f06001d;
+        public static final int dialog_format_error=0x7f06001e;
+        public static final int dialog_insufficient_memory=0x7f06001f;
+        public static final int dialog_move_file_error=0x7f060020;
+        public static final int dialog_name_error=0x7f060021;
+        public static final int dialog_old_document=0x7f060022;
+        public static final int dialog_overwrite_file=0x7f060023;
+        public static final int dialog_parse_error=0x7f060024;
+        public static final int dialog_rtf_file=0x7f060025;
+        public static final int dialog_system_crash_error=0x7f060026;
+        public static final int file_message_empty_directory=0x7f060027;
+        public static final int file_toolsbar_copy=0x7f060028;
+        public static final int file_toolsbar_create_folder=0x7f060029;
+        public static final int file_toolsbar_cut=0x7f06002a;
+        public static final int file_toolsbar_delete=0x7f06002b;
+        public static final int file_toolsbar_mark_star=0x7f06002c;
+        public static final int file_toolsbar_paste=0x7f06002d;
+        public static final int file_toolsbar_print=0x7f06002e;
+        public static final int file_toolsbar_rename=0x7f06002f;
+        public static final int file_toolsbar_share=0x7f060030;
+        public static final int file_toolsbar_sort=0x7f060031;
+        public static final int file_toolsbar_unmark_star=0x7f060032;
+        public static final int pg_slideshow=0x7f060033;
+        public static final int pg_slideshow_pagedown=0x7f060034;
+        public static final int pg_slideshow_pageup=0x7f060035;
+        public static final int pg_toolsbar_note=0x7f060036;
+        public static final int ss_toolsbar_sheet_switch=0x7f060037;
+        public static final int sys_button_cancel=0x7f060038;
+        public static final int sys_button_local_storage=0x7f060039;
+        public static final int sys_button_mark_files=0x7f06003a;
+        public static final int sys_button_memory_card=0x7f06003b;
+        public static final int sys_button_ok=0x7f06003c;
+        public static final int sys_button_recently_files=0x7f06003d;
+        public static final int sys_button_search=0x7f06003e;
+        public static final int sys_menu_about=0x7f06003f;
+        public static final int sys_menu_account=0x7f060040;
+        public static final int sys_menu_help=0x7f060041;
+        public static final int sys_menu_register=0x7f060042;
+        public static final int sys_menu_settings=0x7f060043;
+        public static final int sys_menu_update=0x7f060044;
+        public static final int sys_name=0x7f060045;
+        public static final int sys_no_match=0x7f060046;
+        public static final int sys_progress_message_loading=0x7f060047;
+        public static final int sys_search_hint=0x7f060048;
+        public static final int sys_share_title=0x7f060049;
+        public static final int sys_url_internet_search=0x7f06004a;
+        public static final int sys_url_wxiwei=0x7f06004b;
+        public static final int wp_toolsbar_print_mode=0x7f06004c;
+        public static final int wp_toolsbar_select_text=0x7f06004d;
+        public static final int wp_toolsbar_switch_view=0x7f06004e;
     }
     public static final class style {
-        public static final int title_background_drawable_horizontal=0x7f080000;
-        public static final int title_background_horizontal=0x7f080001;
-    }
-    public static final class xml {
-        public static final int searchable=0x7f040000;
+        public static final int title_background_drawable_horizontal=0x7f070000;
+        public static final int title_background_horizontal=0x7f070001;
     }
     public static final class styleable {
         /** Attributes that can be used with a ScrollBar.

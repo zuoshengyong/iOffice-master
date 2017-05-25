@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="support-v4-21.0.3">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/d5fdf3d6c58e6adacbe83c1e08667b250dc2e687/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/d5fdf3d6c58e6adacbe83c1e08667b250dc2e687/output/res" />
-      <root url="jar://$USER_HOME$/.android/build-cache/d5fdf3d6c58e6adacbe83c1e08667b250dc2e687/output/jars/libs/internal_impl-21.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/5dc3a19aa15ddf024e1049eb2751f7e306830bc7/output/jars/libs/internal_impl-21.0.3.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/5dc3a19aa15ddf024e1049eb2751f7e306830bc7/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/5dc3a19aa15ddf024e1049eb2751f7e306830bc7/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/21.0.3/support-v4-21.0.3-sources.jar!/" />
+      <root url="jar://D:/sdk/extras/android/m2repository/com/android/support/support-v4/21.0.3/support-v4-21.0.3-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

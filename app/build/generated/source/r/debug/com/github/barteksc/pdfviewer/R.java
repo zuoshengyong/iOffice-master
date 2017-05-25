@@ -20,7 +20,7 @@ public final class R {
         public static final int default_scroll_handle_top = 0x7f02001e;
     }
     public static final class string {
-        public static final int app_name = 0x7f070000;
+        public static final int app_name = 0x7f060000;
     }
     public static final class styleable {
         public static final int[] ScrollBar = { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003 };

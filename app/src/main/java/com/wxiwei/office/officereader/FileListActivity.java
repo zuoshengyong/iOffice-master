@@ -16,7 +16,6 @@ import com.wxiwei.office.constant.DialogConstant;
 import com.wxiwei.office.constant.EventConstant;
 import com.wxiwei.office.constant.MainConstant;
 import com.wxiwei.office.officereader.beans.AToolsbar;
-import com.wxiwei.office.officereader.database.DBService;
 import com.wxiwei.office.officereader.filelist.FileDialogAction;
 import com.wxiwei.office.officereader.filelist.FileItem;
 import com.wxiwei.office.officereader.filelist.FileItemAdapter;
@@ -27,8 +26,6 @@ import com.wxiwei.office.officereader.filelist.FileSortType;
 import com.wxiwei.office.officereader.filelist.FileToolsbar;
 import com.wxiwei.office.officereader.filelist.NewFolderDialog;
 import com.wxiwei.office.officereader.filelist.SortDialog;
-import com.wxiwei.office.officereader.search.ISearchResult;
-import com.wxiwei.office.officereader.search.Search;
 import com.wxiwei.office.system.FileKit;
 import com.wxiwei.office.system.IControl;
 import com.wxiwei.office.system.dialog.MessageDialog;
@@ -67,7 +64,7 @@ import android.widget.Toast;
  * <p>
  * <p>
  */
-public class FileListActivity extends Activity implements ISearchResult
+public class FileListActivity extends Activity
 {
     // explore
     public static final byte LIST_TYPE_EXPLORE = 0;
@@ -110,7 +107,6 @@ public class FileListActivity extends Activity implements ISearchResult
         setContentView(fileFrame);
         dialogAction = new FileDialogAction(control);
         fileSortType = new FileSortType();
-        dbService = new DBService(getApplicationContext());
     }
     
     /**
@@ -118,10 +114,6 @@ public class FileListActivity extends Activity implements ISearchResult
      */
     public void onBackPressed()
     {
-        if (search != null)
-        {
-            search.stopSearch();
-        }
         if (listType == LIST_TYPE_SEARCH)
         {
             if (currentDirectory == null)
@@ -265,7 +257,6 @@ public class FileListActivity extends Activity implements ISearchResult
             currentDirectory = sdcardPath;            
             // get files from database
             List<File> fileList = new ArrayList<File>();
-            dbService.get(MainConstant.TABLE_STAR, fileList);
             listFiles(fileList.toArray(new File[fileList.size()]));
             updateToolsbarStatus();
         }
@@ -276,7 +267,6 @@ public class FileListActivity extends Activity implements ISearchResult
             currentDirectory = sdcardPath;  
             // get files from database
             List<File> fileList = new ArrayList<File>();
-            dbService.get(MainConstant.TABLE_RECENT, fileList);
             // sort by opened time
             int nCount = fileList.size();
             File[] files = new File[nCount];
@@ -303,7 +293,7 @@ public class FileListActivity extends Activity implements ISearchResult
     
     /**
      * search file from current directory
-     * @param query
+     * @param
      */
     public void createSearchFileList(Intent intent)
     {  
@@ -311,14 +301,7 @@ public class FileListActivity extends Activity implements ISearchResult
         if (key.length() > 0)
         {
             listType = LIST_TYPE_SEARCH;
-            if (search == null)
-            {
-                search = new Search(control, this);
-            }
-            search.doSearch(currentDirectory == null ? sdcardPath : currentDirectory, key, Search.SEARCH_BY_NAME);
-            
-            /*search.doSearch(currentDirectory == null ? sdcardPath : currentDirectory, 
-                key, Search.SEARCH_BY_CONTENT);*/
+
             
             directoryEntries.clear();
             selectFileItem.clear();
@@ -400,10 +383,7 @@ public class FileListActivity extends Activity implements ISearchResult
      */
     public void actionEvent(int actionID, Object obj)
     {
-        if (search != null)
-        {
-            search.stopSearch();
-        }
+
         switch (actionID)
         {
             case EventConstant.SYS_SHOW_TOOLTIP:        // show tools tip
@@ -608,7 +588,6 @@ public class FileListActivity extends Activity implements ISearchResult
                 if (listType != LIST_TYPE_MARKED)
                 {
                     fileList = new ArrayList<File>();
-                    dbService.get(MainConstant.TABLE_STAR, fileList);
                 }
                 
                 for (File currentFile : files)
@@ -957,8 +936,8 @@ public class FileListActivity extends Activity implements ISearchResult
  
     /**
      * set file sort type
-     * @param typeName
-     * @param childName
+     * @param
+     * @param
      */
     public void setSortType(int type, int ascending)
     {
@@ -989,12 +968,10 @@ public class FileListActivity extends Activity implements ISearchResult
         if (fileItem.getFileStar() == 1)
         {
             fileItem.setFileStar(0);
-            dbService.deleteItem(MainConstant.TABLE_STAR, fileItem.getFile().getAbsolutePath());
         }
         else
         {
             fileItem.setFileStar(1);
-            dbService.insertStarFiles(MainConstant.TABLE_STAR, fileItem.getFile().getAbsolutePath());
         }
         fileAdapter.notifyDataSetChanged();
     }
@@ -1106,16 +1083,7 @@ public class FileListActivity extends Activity implements ISearchResult
             fileSortType.dispos();
             fileSortType = null;
         }
-        if (dbService != null)
-        {
-            dbService.dispose();
-            dbService = null;
-        }
-        if (search != null)
-        {
-            search.dispose();
-            search = null;
-        }
+
         if (control != null)
         {
             control.dispose();
@@ -1164,7 +1132,4 @@ public class FileListActivity extends Activity implements ISearchResult
     //
     private FileSortType fileSortType;
     //
-    private DBService dbService;
-    //
-    private Search search;    
 }

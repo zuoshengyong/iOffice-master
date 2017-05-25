@@ -1,22 +1,22 @@
 [
     {
-        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable/default_scroll_handle_left.xml",
-        "source": "/Users/susan/.android/build-cache/1d1f40b86e238d60a4734ee9bd1ec2f2a53e0f0b/output/res/drawable/default_scroll_handle_left.xml"
+        "merged": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_right.xml",
+        "source": "C:\\Users\\wusm\\.android\\build-cache\\9c316b44d1c48323379909ed6f46680cc1069583\\output\\res\\drawable\\default_scroll_handle_right.xml"
     },
     {
-        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable/default_scroll_handle_right.xml",
-        "source": "/Users/susan/.android/build-cache/1d1f40b86e238d60a4734ee9bd1ec2f2a53e0f0b/output/res/drawable/default_scroll_handle_right.xml"
+        "merged": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_left.xml",
+        "source": "C:\\Users\\wusm\\.android\\build-cache\\9c316b44d1c48323379909ed6f46680cc1069583\\output\\res\\drawable\\default_scroll_handle_left.xml"
     },
     {
-        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable/file_list_selector.xml",
-        "source": "/Users/susan/Desktop/iOffice-master/app/src/main/res/drawable/file_list_selector.xml"
+        "merged": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\file_list_selector.xml",
+        "source": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\drawable\\file_list_selector.xml"
     },
     {
-        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable/default_scroll_handle_top.xml",
-        "source": "/Users/susan/.android/build-cache/1d1f40b86e238d60a4734ee9bd1ec2f2a53e0f0b/output/res/drawable/default_scroll_handle_top.xml"
+        "merged": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_bottom.xml",
+        "source": "C:\\Users\\wusm\\.android\\build-cache\\9c316b44d1c48323379909ed6f46680cc1069583\\output\\res\\drawable\\default_scroll_handle_bottom.xml"
     },
     {
-        "merged": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/res/merged/debug/drawable/default_scroll_handle_bottom.xml",
-        "source": "/Users/susan/.android/build-cache/1d1f40b86e238d60a4734ee9bd1ec2f2a53e0f0b/output/res/drawable/default_scroll_handle_bottom.xml"
+        "merged": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_top.xml",
+        "source": "C:\\Users\\wusm\\.android\\build-cache\\9c316b44d1c48323379909ed6f46680cc1069583\\output\\res\\drawable\\default_scroll_handle_top.xml"
     }
 ]

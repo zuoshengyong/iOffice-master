@@ -18,33 +18,14 @@
         android:label="@string/sys_name"
         android:theme="@style/title_background_horizontal" >
         <activity
-            android:name="com.wxiwei.office.officereader.SysActivity"
-            android:label="@string/sys_name" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-            <intent-filter>
-                <category android:name="android.intent.category.BROWSABLE" />
-
-                <data android:scheme="http" />
-                <data android:scheme="https" />
-                <data android:scheme="inline" />
-                <data android:scheme="file" />
-            </intent-filter>
-
-            <meta-data
-                android:name="android.app.default_searchable"
-                android:value=".FileListActivity" />
-        </activity>
-        <activity
             android:name="com.wxiwei.office.officereader.FileListActivity"
             android:configChanges="keyboardHidden|orientation"
             android:label="@string/sys_name"
             android:launchMode="singleTop" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
             <intent-filter>
                 <category android:name="android.intent.category.BROWSABLE" />
@@ -59,16 +40,30 @@
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
-
-            <meta-data
-                android:name="android.app.searchable"
-                android:resource="@xml/searchable" />
         </activity>
+        <activity
+            android:name="com.wxiwei.office.officereader.PDFViewActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/sys_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
 
-        <provider
-            android:name="com.wxiwei.office.officereader.SearchSuggestionsProvider"
-            android:authorities="searchprovider" />
+                <category android:name="android.intent.category.DEFAULT" />
 
+                <data android:mimeType="application/pdf" />
+            </intent-filter>
+            <intent-filter>
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="http" />
+                <data android:scheme="https" />
+                <data android:scheme="inline" />
+                <data android:scheme="file" />
+            </intent-filter>
+        </activity>
         <activity
             android:name="com.wxiwei.office.officereader.AppActivity"
             android:configChanges="keyboardHidden|orientation"
@@ -110,11 +105,6 @@
                 <data android:scheme="inline" />
                 <data android:scheme="file" />
             </intent-filter>
-        </activity>
-        <activity
-            android:name="com.wxiwei.office.officereader.PDFViewActivity"
-            android:configChanges="keyboardHidden|orientation"
-            android:label="@string/sys_name" >
         </activity>
     </application>
 

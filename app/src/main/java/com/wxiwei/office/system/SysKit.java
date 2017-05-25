@@ -9,7 +9,6 @@ package com.wxiwei.office.system;
 
 import java.io.File;
 
-import com.wxiwei.office.common.bookmark.BookmarkManage;
 import com.wxiwei.office.common.borders.BordersManage;
 import com.wxiwei.office.common.bulletnumber.ListManage;
 import com.wxiwei.office.common.hyperlink.HyperlinkManage;
@@ -148,7 +147,7 @@ public class SysKit
     /**
      * Internet search
      * 
-     * @param word 
+     * @param
      */
     public void internetSearch(String str, Activity activity)
     {    
@@ -304,18 +303,7 @@ public class SysKit
         return wpSMKit;
     }
     
-    /**
-     * 
-     * @return
-     */
-    public BookmarkManage getBookmarkManage()
-    {
-        if (bmKit == null)
-        {
-            bmKit = new BookmarkManage();
-        }
-        return bmKit;
-    }
+
     
     /**
      * 
@@ -385,12 +373,7 @@ public class SysKit
             wpSMKit.dispose();
             wpSMKit = null;
         }
-        if (bmKit != null)
-        {
-            bmKit.dispose();
-            bmKit = null;
-        }
-        
+
         if(animationMgr != null)
         {
         	animationMgr.dispose();
@@ -418,8 +401,7 @@ public class SysKit
     //
     private WPShapeManage wpSMKit;
     //
-    private BookmarkManage bmKit;
-    
+
     // 保存一个control实例，这个control实例就是AppActivity
     private IControl control;
     //

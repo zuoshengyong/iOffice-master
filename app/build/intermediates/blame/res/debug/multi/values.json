@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/susan/Desktop/iOffice-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,15 @@
                     "endOffset": 2169
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/arrays.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endLine": 71,
+                        "endColumn": 19,
+                        "endOffset": 2282
+                    }
                 }
             },
             {
@@ -25,7 +33,15 @@
                     "endOffset": 2332
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/arrays.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 2333,
+                        "endLine": 79,
+                        "endColumn": 16,
+                        "endOffset": 2496
+                    }
                 }
             },
             {
@@ -38,7 +54,15 @@
                     "endOffset": 2448
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/arrays.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 2539,
+                        "endLine": 84,
+                        "endColumn": 16,
+                        "endOffset": 2652
+                    }
                 }
             },
             {
@@ -50,7 +74,14 @@
                     "endOffset": 2495
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/colors.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
                 }
             },
             {
@@ -62,7 +93,14 @@
                     "endOffset": 2828
                 },
                 "from": {
-                    "file": "/Users/susan/.android/build-cache/d2fe50157e79ee3b3165861ec1074b4ca27bc9ae/output/res/values/values.xml"
+                    "file": "C:\\Users\\wusm\\.android\\build-cache\\d7d5330ea507a5a91bf3cc319ddb7e2ca6d364b6\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
                 }
             },
             {
@@ -74,7 +112,14 @@
                     "endOffset": 2893
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2897,
+                        "endColumn": 64,
+                        "endOffset": 2957
+                    }
                 }
             },
             {
@@ -86,7 +131,14 @@
                     "endOffset": 3000
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3080,
+                        "endColumn": 106,
+                        "endOffset": 3182
+                    }
                 }
             },
             {
@@ -98,7 +150,14 @@
                     "endOffset": 3052
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3027,
+                        "endColumn": 51,
+                        "endOffset": 3074
+                    }
                 }
             },
             {
@@ -110,7 +169,14 @@
                     "endOffset": 3115
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2963,
+                        "endColumn": 62,
+                        "endOffset": 3021
+                    }
                 }
             },
             {
@@ -122,7 +188,14 @@
                     "endOffset": 3227
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3188,
+                        "endColumn": 111,
+                        "endOffset": 3295
+                    }
                 }
             },
             {
@@ -134,7 +207,14 @@
                     "endOffset": 3331
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3301,
+                        "endColumn": 103,
+                        "endOffset": 3400
+                    }
                 }
             },
             {
@@ -146,7 +226,14 @@
                     "endOffset": 3388
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2351,
+                        "endColumn": 56,
+                        "endOffset": 2403
+                    }
                 }
             },
             {
@@ -158,7 +245,14 @@
                     "endOffset": 3439
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2550,
+                        "endColumn": 50,
+                        "endOffset": 2596
+                    }
                 }
             },
             {
@@ -170,7 +264,14 @@
                     "endOffset": 3499
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2830,
+                        "endColumn": 59,
+                        "endOffset": 2885
+                    }
                 }
             },
             {
@@ -182,7 +283,14 @@
                     "endOffset": 3555
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2493,
+                        "endColumn": 55,
+                        "endOffset": 2544
+                    }
                 }
             },
             {
@@ -194,7 +302,14 @@
                     "endOffset": 3611
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2712,
+                        "endColumn": 55,
+                        "endOffset": 2763
+                    }
                 }
             },
             {
@@ -206,7 +321,14 @@
                     "endOffset": 3671
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2769,
+                        "endColumn": 59,
+                        "endOffset": 2824
+                    }
                 }
             },
             {
@@ -218,7 +340,14 @@
                     "endOffset": 3722
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2119,
+                        "endColumn": 50,
+                        "endOffset": 2165
+                    }
                 }
             },
             {
@@ -230,7 +359,14 @@
                     "endOffset": 3799
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2409,
+                        "endColumn": 76,
+                        "endOffset": 2481
+                    }
                 }
             },
             {
@@ -242,7 +378,14 @@
                     "endOffset": 3855
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2062,
+                        "endColumn": 55,
+                        "endOffset": 2113
+                    }
                 }
             },
             {
@@ -254,7 +397,14 @@
                     "endOffset": 3928
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2225,
+                        "endColumn": 72,
+                        "endOffset": 2293
+                    }
                 }
             },
             {
@@ -266,7 +416,14 @@
                     "endOffset": 3980
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2602,
+                        "endColumn": 51,
+                        "endOffset": 2649
+                    }
                 }
             },
             {
@@ -278,7 +435,14 @@
                     "endOffset": 4036
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2655,
+                        "endColumn": 55,
+                        "endOffset": 2706
+                    }
                 }
             },
             {
@@ -290,7 +454,14 @@
                     "endOffset": 4087
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2299,
+                        "endColumn": 50,
+                        "endOffset": 2345
+                    }
                 }
             },
             {
@@ -302,7 +473,14 @@
                     "endOffset": 4140
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2171,
+                        "endColumn": 52,
+                        "endOffset": 2219
+                    }
                 }
             },
             {
@@ -314,7 +492,14 @@
                     "endOffset": 4195
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 1,
+                        "startOffset": 4791,
+                        "endColumn": 51,
+                        "endOffset": 4841
+                    }
                 }
             },
             {
@@ -326,7 +511,14 @@
                     "endOffset": 4274
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 1,
+                        "startOffset": 4147,
+                        "endColumn": 75,
+                        "endOffset": 4221
+                    }
                 }
             },
             {
@@ -338,7 +530,14 @@
                     "endOffset": 4375
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 1,
+                        "startOffset": 4413,
+                        "endColumn": 97,
+                        "endOffset": 4509
+                    }
                 }
             },
             {
@@ -350,7 +549,14 @@
                     "endOffset": 4432
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 1,
+                        "startOffset": 4736,
+                        "endColumn": 53,
+                        "endOffset": 4788
+                    }
                 }
             },
             {
@@ -362,7 +568,14 @@
                     "endOffset": 4496
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 1,
+                        "startOffset": 4028,
+                        "endColumn": 60,
+                        "endOffset": 4087
+                    }
                 }
             },
             {
@@ -374,7 +587,14 @@
                     "endOffset": 4549
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 1,
+                        "startOffset": 4685,
+                        "endColumn": 49,
+                        "endOffset": 4733
+                    }
                 }
             },
             {
@@ -386,7 +606,14 @@
                     "endOffset": 4604
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 1,
+                        "startOffset": 4224,
+                        "endColumn": 51,
+                        "endOffset": 4274
+                    }
                 }
             },
             {
@@ -398,7 +625,14 @@
                     "endOffset": 4679
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 1,
+                        "startOffset": 4277,
+                        "endColumn": 71,
+                        "endOffset": 4347
+                    }
                 }
             },
             {
@@ -410,7 +644,14 @@
                     "endOffset": 4738
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 1,
+                        "startOffset": 4090,
+                        "endColumn": 55,
+                        "endOffset": 4144
+                    }
                 }
             },
             {
@@ -422,7 +663,14 @@
                     "endOffset": 4804
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 1,
+                        "startOffset": 5038,
+                        "endColumn": 62,
+                        "endOffset": 5099
+                    }
                 }
             },
             {
@@ -434,7 +682,14 @@
                     "endOffset": 4915
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 1,
+                        "startOffset": 4845,
+                        "endColumn": 107,
+                        "endOffset": 4951
+                    }
                 }
             },
             {
@@ -446,7 +701,14 @@
                     "endOffset": 5013
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 1,
+                        "startOffset": 4512,
+                        "endColumn": 94,
+                        "endOffset": 4605
+                    }
                 }
             },
             {
@@ -458,7 +720,14 @@
                     "endOffset": 5078
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 1,
+                        "startOffset": 4350,
+                        "endColumn": 61,
+                        "endOffset": 4410
+                    }
                 }
             },
             {
@@ -470,7 +739,14 @@
                     "endOffset": 5195
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 1,
+                        "startOffset": 5102,
+                        "endColumn": 113,
+                        "endOffset": 5214
+                    }
                 }
             },
             {
@@ -482,7 +758,14 @@
                     "endOffset": 5274
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 1,
+                        "startOffset": 4608,
+                        "endColumn": 75,
+                        "endOffset": 4682
+                    }
                 }
             },
             {
@@ -494,7 +777,14 @@
                     "endOffset": 5340
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 1,
+                        "startOffset": 5217,
+                        "endColumn": 62,
+                        "endOffset": 5278
+                    }
                 }
             },
             {
@@ -506,7 +796,14 @@
                     "endOffset": 5442
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 1,
+                        "startOffset": 5281,
+                        "endColumn": 98,
+                        "endOffset": 5378
+                    }
                 }
             },
             {
@@ -518,7 +815,14 @@
                     "endOffset": 5528
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 1,
+                        "startOffset": 4954,
+                        "endColumn": 82,
+                        "endOffset": 5035
+                    }
                 }
             },
             {
@@ -530,7 +834,14 @@
                     "endOffset": 5598
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1946,
+                        "endColumn": 69,
+                        "endOffset": 2011
+                    }
                 }
             },
             {
@@ -542,7 +853,14 @@
                     "endOffset": 5650
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1445,
+                        "endColumn": 51,
+                        "endOffset": 1492
+                    }
                 }
             },
             {
@@ -554,7 +872,14 @@
                     "endOffset": 5720
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 69,
+                        "endOffset": 1382
+                    }
                 }
             },
             {
@@ -566,7 +891,14 @@
                     "endOffset": 5770
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1498,
+                        "endColumn": 49,
+                        "endOffset": 1543
+                    }
                 }
             },
             {
@@ -578,7 +910,14 @@
                     "endOffset": 5826
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1604,
+                        "endColumn": 55,
+                        "endOffset": 1655
+                    }
                 }
             },
             {
@@ -590,7 +929,14 @@
                     "endOffset": 5883
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1826,
+                        "endColumn": 56,
+                        "endOffset": 1878
+                    }
                 }
             },
             {
@@ -602,7 +948,14 @@
                     "endOffset": 5937
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1549,
+                        "endColumn": 53,
+                        "endOffset": 1598
+                    }
                 }
             },
             {
@@ -614,7 +967,14 @@
                     "endOffset": 5993
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1769,
+                        "endColumn": 55,
+                        "endOffset": 1820
+                    }
                 }
             },
             {
@@ -626,7 +986,14 @@
                     "endOffset": 6049
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1388,
+                        "endColumn": 55,
+                        "endOffset": 1439
+                    }
                 }
             },
             {
@@ -638,7 +1005,14 @@
                     "endOffset": 6103
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1661,
+                        "endColumn": 53,
+                        "endOffset": 1710
+                    }
                 }
             },
             {
@@ -650,7 +1024,14 @@
                     "endOffset": 6155
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1716,
+                        "endColumn": 51,
+                        "endOffset": 1763
+                    }
                 }
             },
             {
@@ -662,7 +1043,14 @@
                     "endOffset": 6216
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1884,
+                        "endColumn": 60,
+                        "endOffset": 1940
+                    }
                 }
             },
             {
@@ -674,7 +1062,14 @@
                     "endOffset": 6267
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3831,
+                        "endColumn": 50,
+                        "endOffset": 3877
+                    }
                 }
             },
             {
@@ -686,7 +1081,14 @@
                     "endOffset": 6327
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3940,
+                        "endColumn": 59,
+                        "endOffset": 3995
+                    }
                 }
             },
             {
@@ -698,7 +1100,14 @@
                     "endOffset": 6383
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 3883,
+                        "endColumn": 55,
+                        "endOffset": 3934
+                    }
                 }
             },
             {
@@ -710,7 +1119,14 @@
                     "endOffset": 6433
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3780,
+                        "endColumn": 49,
+                        "endOffset": 3825
+                    }
                 }
             },
             {
@@ -722,7 +1138,14 @@
                     "endOffset": 6499
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3676,
+                        "endColumn": 65,
+                        "endOffset": 3737
+                    }
                 }
             },
             {
@@ -734,7 +1157,14 @@
                     "endOffset": 6552
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 52,
+                        "endOffset": 226
+                    }
                 }
             },
             {
@@ -746,7 +1176,14 @@
                     "endOffset": 6619
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endColumn": 66,
+                        "endOffset": 545
+                    }
                 }
             },
             {
@@ -758,7 +1195,14 @@
                     "endOffset": 6682
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 419,
+                        "endColumn": 62,
+                        "endOffset": 477
+                    }
                 }
             },
             {
@@ -770,7 +1214,14 @@
                     "endOffset": 6744
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 61,
+                        "endOffset": 289
+                    }
                 }
             },
             {
@@ -782,7 +1233,14 @@
                     "endOffset": 6789
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endColumn": 44,
+                        "endOffset": 172
+                    }
                 }
             },
             {
@@ -794,7 +1252,14 @@
                     "endOffset": 6858
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 68,
+                        "endOffset": 413
+                    }
                 }
             },
             {
@@ -806,7 +1271,14 @@
                     "endOffset": 6911
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 52,
+                        "endOffset": 343
+                    }
                 }
             },
             {
@@ -818,7 +1290,14 @@
                     "endOffset": 6960
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 817,
+                        "endColumn": 48,
+                        "endOffset": 861
+                    }
                 }
             },
             {
@@ -830,7 +1309,14 @@
                     "endOffset": 7013
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 607,
+                        "endColumn": 52,
+                        "endOffset": 655
+                    }
                 }
             },
             {
@@ -842,7 +1328,14 @@
                     "endOffset": 7060
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 46,
+                        "endOffset": 811
+                    }
                 }
             },
             {
@@ -854,7 +1347,14 @@
                     "endOffset": 7115
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 661,
+                        "endColumn": 54,
+                        "endOffset": 711
+                    }
                 }
             },
             {
@@ -866,7 +1366,14 @@
                     "endOffset": 7170
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 551,
+                        "endColumn": 54,
+                        "endOffset": 601
+                    }
                 }
             },
             {
@@ -878,7 +1385,14 @@
                     "endOffset": 7221
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 50,
+                        "endOffset": 763
+                    }
                 }
             },
             {
@@ -890,13 +1404,13 @@
                     "endOffset": 7261
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml",
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 88,
+                        "startOffset": 91,
                         "endColumn": 39,
-                        "endOffset": 123
+                        "endOffset": 126
                     }
                 }
             },
@@ -909,7 +1423,14 @@
                     "endOffset": 7314
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1077,
+                        "endColumn": 52,
+                        "endOffset": 1125
+                    }
                 }
             },
             {
@@ -921,7 +1442,14 @@
                     "endOffset": 7395
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1192,
+                        "endColumn": 80,
+                        "endOffset": 1268
+                    }
                 }
             },
             {
@@ -933,7 +1461,14 @@
                     "endOffset": 7456
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 60,
+                        "endOffset": 1071
+                    }
                 }
             },
             {
@@ -945,7 +1480,14 @@
                     "endOffset": 7516
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1131,
+                        "endColumn": 59,
+                        "endOffset": 1186
+                    }
                 }
             },
             {
@@ -957,7 +1499,14 @@
                     "endOffset": 7589
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 72,
+                        "endOffset": 1009
+                    }
                 }
             },
             {
@@ -969,7 +1518,14 @@
                     "endOffset": 7662
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 867,
+                        "endColumn": 72,
+                        "endOffset": 935
+                    }
                 }
             },
             {
@@ -981,7 +1537,14 @@
                     "endOffset": 7724
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3509,
+                        "endColumn": 61,
+                        "endOffset": 3566
+                    }
                 }
             },
             {
@@ -993,7 +1556,14 @@
                     "endOffset": 7788
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3572,
+                        "endColumn": 63,
+                        "endOffset": 3631
+                    }
                 }
             },
             {
@@ -1005,7 +1575,14 @@
                     "endOffset": 7852
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/strings.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3444,
+                        "endColumn": 63,
+                        "endOffset": 3503
+                    }
                 }
             },
             {
@@ -1018,7 +1595,15 @@
                     "endOffset": 7979
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/styles.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 56,
+                        "endLine": 5,
+                        "endColumn": 9,
+                        "endOffset": 180
+                    }
                 }
             },
             {
@@ -1031,7 +1616,15 @@
                     "endOffset": 8160
                 },
                 "from": {
-                    "file": "/Users/susan/Desktop/iOffice-master/app/src/main/res/values/styles.xml"
+                    "file": "C:\\Users\\wusm\\Documents\\GitHub\\iOffice-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 185,
+                        "endLine": 9,
+                        "endColumn": 9,
+                        "endOffset": 363
+                    }
                 }
             }
         ]

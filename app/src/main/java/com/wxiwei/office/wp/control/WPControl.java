@@ -11,7 +11,6 @@ import java.util.Vector;
 
 import com.wxiwei.office.common.ICustomDialog;
 import com.wxiwei.office.common.IOfficeToPicture;
-import com.wxiwei.office.common.bookmark.Bookmark;
 import com.wxiwei.office.common.hyperlink.Hyperlink;
 import com.wxiwei.office.constant.DialogConstant;
 import com.wxiwei.office.constant.EventConstant;
@@ -309,19 +308,11 @@ public class WPControl extends AbstractControl
                 {                    
                     try
                     {
-                        if (link.getLinkType() == Hyperlink.LINK_BOOKMARK)
-                        {
-                            Bookmark bm = getSysKit().getBookmarkManage().getBookmark(link.getAddress());
-                            if (bm != null)
-                            {
-                                ControlKit.instance().gotoOffset(wpView, bm.getStart());
-                            }
-                        }
-                        else
-                        {
+
+
                             Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(link.getAddress()));        
                             getMainFrame().getActivity().startActivity(intent);
-                        }
+
                     }
                     catch(Exception e)
                     {

@@ -12,6 +12,7 @@ import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.MotionEvent;
 import android.view.View;
@@ -29,7 +30,6 @@ import com.wxiwei.office.officereader.beans.AImageButton;
 import com.wxiwei.office.officereader.beans.AImageCheckButton;
 import com.wxiwei.office.officereader.beans.AToolsbar;
 import com.wxiwei.office.officereader.beans.CalloutToolsbar;
-import com.wxiwei.office.officereader.database.DBService;
 import com.wxiwei.office.res.ResKit;
 import com.wxiwei.office.ss.sheetbar.SheetBar;
 import com.wxiwei.office.system.FileKit;
@@ -263,21 +263,7 @@ public class AppActivity extends Activity implements IMainFrame
                 {
                     control.getReader().abortReader();
                 }
-                if (marked != dbService.queryItem(MainConstant.TABLE_STAR, filePath))
-                {
-                    if (!marked)
-                    {
-                        dbService.deleteItem(MainConstant.TABLE_STAR, filePath);
-                    }
-                    else
-                    {
-                        dbService.insertStarFiles(MainConstant.TABLE_STAR, filePath);
-                    }
 
-                    Intent intent = new Intent();
-                    intent.putExtra(MainConstant.INTENT_FILED_MARK_STATUS, marked);
-                    setResult(RESULT_OK, intent);
-                }
                 if (control != null && control.isAutoTest())
                 {
                     System.exit(0);
@@ -321,7 +307,6 @@ public class AppActivity extends Activity implements IMainFrame
         toast = Toast.makeText(getApplicationContext(), "", 0);
         //
         Intent intent = getIntent();
-        dbService = new DBService(getApplicationContext());
 
         filePath = intent.getStringExtra(MainConstant.INTENT_FILED_FILE_PATH);
         // 文件关联打开文件
@@ -348,11 +333,7 @@ public class AppActivity extends Activity implements IMainFrame
         }
 
         boolean isSupport = FileKit.instance().isSupport(filePath);
-        //写入本地数据库
-        if (isSupport)
-        {
-            dbService.insertRecentFiles(MainConstant.TABLE_RECENT, filePath);
-        }
+
 
         // open file
         control.openFile(filePath);
@@ -496,13 +477,7 @@ public class AppActivity extends Activity implements IMainFrame
      */
     public void initMarked()
     {
-        marked = dbService.queryItem(MainConstant.TABLE_STAR, filePath);
-        if (marked)
-        {
-        }
-        else
-        {
-        }
+
     }
 
     /**
@@ -1140,11 +1115,7 @@ public class AppActivity extends Activity implements IMainFrame
             control = null;
         }
         bottomBar = null;
-        if (dbService != null)
-        {
-            dbService.dispose();
-            dbService = null;
-        }
+
         if (appFrame != null)
         {
             int count = appFrame.getChildCount();
@@ -1189,7 +1160,6 @@ public class AppActivity extends Activity implements IMainFrame
     //
     private AppFrame appFrame;
     //
-    private DBService dbService;
     //
     private SheetBar bottomBar;
     //

@@ -31,6 +31,7 @@ import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.os.Handler;
 import android.os.Message;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.KeyEvent;
 import android.view.View;
@@ -346,10 +347,7 @@ public class MainControl extends AbstractControl
                 getView().postInvalidate();
             }
         });       
-        /*// 初始化数
-        actionEvent(EventConstant.SYS_INIT_ID, null);
-        // 更新状态
-        frame.updateToolsbarStatus();*/
+
         
     }  
     
@@ -394,6 +392,7 @@ public class MainControl extends AbstractControl
         else if (fileName.endsWith(MainConstant.FILE_TYPE_PDF))
         {
             applicationType = MainConstant.APPLICATION_TYPE_PDF;
+            Log.d("type","dahduahdiahdhuai");
         }
         else
         {

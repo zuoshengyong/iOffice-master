@@ -1,9 +1,3 @@
-/*
- * 文件名称:          DOCReader.java
- *  
- * 编译器:            android2.2
- * 时间:              下午2:57:34
- */
 
 package com.wxiwei.office.fc.doc;
 
@@ -23,7 +17,6 @@ import com.wxiwei.office.common.bg.Gradient;
 import com.wxiwei.office.common.bg.LinearGradientShader;
 import com.wxiwei.office.common.bg.RadialGradientShader;
 import com.wxiwei.office.common.bg.TileShader;
-import com.wxiwei.office.common.bookmark.Bookmark;
 import com.wxiwei.office.common.borders.Border;
 import com.wxiwei.office.common.borders.Borders;
 import com.wxiwei.office.common.borders.Line;
@@ -160,7 +153,6 @@ public class DOCReader extends AbstractReader
         //
         processBulletNumber();
         //
-        processBookmark();
         //
         offset = WPModelConstant.MAIN;
         docRealOffset = WPModelConstant.MAIN;
@@ -188,23 +180,7 @@ public class DOCReader extends AbstractReader
         processHeaderFooter();
     }
     
-    /**
-     * 
-     */
-    private void processBookmark()
-    {
-        Bookmarks bks = poiDoc.getBookmarks();
-        if (bks != null)
-        {
-            for (int i = 0; i < bks.getBookmarksCount(); i++)
-            {
-                POIBookmark poiBM = bks.getBookmark(i);
-                Bookmark bm = new Bookmark(poiBM.getName(), poiBM.getStart(), poiBM.getEnd());
-                control.getSysKit().getBookmarkManage().addBookmark(bm);
-                bms.add(bm);
-            }
-        }
-    }
+
     
     /**
      * 
@@ -924,7 +900,6 @@ public class DOCReader extends AbstractReader
         paraElem.setEndOffset(offset);
         wpdoc.appendParagraph(paraElem, offset);
         //
-        adjustBookmarkOffset(before, docRealOffset);
     }
     
     private boolean isPageNumber(Field field, String fieldCode)
@@ -2044,7 +2019,6 @@ public class DOCReader extends AbstractReader
             paraElem.setEndOffset(offset);
             wpdoc.appendParagraph(paraElem, offset);
             //
-            adjustBookmarkOffset(before, docRealOffset);
 
             autoShape.setElementIndex((int)textboxIndex);
             
@@ -2328,20 +2302,7 @@ public class DOCReader extends AbstractReader
         return isContain;
     }
     
-    /**
-     * 
-     */
-    private void adjustBookmarkOffset(long before, long after)
-    {
-        for (Bookmark bm : bms)
-        {
-            if (bm.getStart() >= before && bm.getStart() <= after)
-            {
-                bm.setStart(offset);
-            }
-        }
-    }
-    
+
     /**
      * 
      */
@@ -2355,11 +2316,6 @@ public class DOCReader extends AbstractReader
             control =  null;
             hyperlinkAddress = null;
             //controlForReader = null;
-            if (bms != null)
-            {
-                bms.clear();
-                bms = null;
-            }
         }
         
     }
@@ -2382,5 +2338,4 @@ public class DOCReader extends AbstractReader
     //
     private String hyperlinkAddress;
     //
-    private List<Bookmark> bms = new ArrayList<Bookmark>();;
 }

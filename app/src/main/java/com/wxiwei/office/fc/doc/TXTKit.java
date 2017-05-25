@@ -13,11 +13,9 @@ import com.wxiwei.office.common.ICustomDialog;
 import com.wxiwei.office.constant.DialogConstant;
 import com.wxiwei.office.fc.fs.storage.HeaderBlock;
 import com.wxiwei.office.fc.fs.storage.LittleEndian;
-import com.wxiwei.office.system.ErrorUtil;
 import com.wxiwei.office.system.FileReaderThread;
 import com.wxiwei.office.system.IControl;
 import com.wxiwei.office.system.IDialogAction;
-import com.wxiwei.office.system.MainControl;
 import com.wxiwei.office.thirdpart.mozilla.intl.chardet.CharsetDetector;
 import com.wxiwei.office.wp.dialog.TXTEncodingDialog;
 
